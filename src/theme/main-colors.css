@@ -1,0 +1,21 @@
+:root {
+    /* Main colors */
+    --main-color-primary: #5048e5;
+    --main-color-success: #10b981;
+    --main-color-info: #2196f3;
+    --main-color-warning: #ffb020;
+    --main-color-error: #d14343;
+
+    /* Theme colors */
+    --theme-color-blue: #1c9bef;
+    --theme-color-yellow: #ffd400;
+    --theme-color-red: #f9197f;
+    --theme-color-purple: #7855ff;
+    --theme-color-orange: #fe7900;
+    --theme-color-green: #00ba7c;
+
+    /* Theme backgrounds */
+    --theme-background-light: #fff;
+    --theme-background-dim: #15202b;
+    --theme-background-dark: #000;
+}

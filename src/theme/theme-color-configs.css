@@ -1,0 +1,23 @@
+.theme-color-blue {
+    --text-system-highlight: var(--theme-color-blue);
+}
+
+.theme-color-yellow {
+    --text-system-highlight: var(--theme-color-yellow);
+}
+
+.theme-color-red {
+    --text-system-highlight: var(--theme-color-red);
+}
+
+.theme-color-purple {
+    --text-system-highlight: var(--theme-color-purple);
+}
+
+.theme-color-orange {
+    --text-system-highlight: var(--theme-color-orange);
+}
+
+.theme-color-green {
+    --text-system-highlight: var(--theme-color-green);
+}
