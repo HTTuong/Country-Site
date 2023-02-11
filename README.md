@@ -2,7 +2,7 @@
 
 ## Introduction
 
--   This site will provide people with brief information about many countries including region, population, popular langguages in that country and so on.
+-   This site will provide people with brief information about many countries including region, population, popular languages in that country and so on.
 
 ## Product Demo
 
